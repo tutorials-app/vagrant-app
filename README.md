@@ -1,3 +1,3 @@
 # vagrant-app
 
-Vagrant + Docker + Node.js + MongoDB
+Vagrant + Node.js + MongoDB
